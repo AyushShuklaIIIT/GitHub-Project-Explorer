@@ -87,7 +87,7 @@ function App() {
   const avgStars = Math.round(repos.reduce((sum, repo) => sum + repo.stars, 0) / totalRepos) || 0;
 
   return (
-    <div className='flex h-screen bg-slate-950 font-inter text-white'>
+    <div className='flex h-screen bg-[#0f172a] font-inter text-white'>
       <Sidebar sidebarOpen={sidebarOpen} activeView={activeView} setActiveView={setActiveView} />
       <div className='flex-1 flex flex-col overflow-hidden'>
         <Header
