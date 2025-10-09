@@ -1,6 +1,6 @@
 # 🚀GitHub Project Explorer  
 
-**A dynamic, modern dashboard for disconvering, analyzing, and bookmarking trending open-source projects on GitHub.**  
+**A dynamic, modern dashboard for discovering, analyzing, and bookmarking trending open-source projects on GitHub.**  
 
 This web application provides a clean and intuitive interface to explore repositories, filter them by various criteria, and view key anlaytics through interactive charts. It also includes personalization features like bookmarking and note-taking, making it a powerful tool for developers to keep track of interesting projects.
 
